@@ -2,6 +2,6 @@ package org.matt.itk.Taschenrechner1;
 
 public interface Rechenoperationen {
 
-	public float ausführen(float zahl1, float zahl2);
+	public double ausführen(double zahl1, double zahl2);
 
 	}
